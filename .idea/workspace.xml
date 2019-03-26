@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="58e88920-9a54-4609-bbe9-47f8afe8627f" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/ideias/Sql.php" beforeDir="false" afterPath="$PROJECT_DIR$/ideias/Sql.php" afterDir="false" />
-    </list>
+    <list default="true" id="58e88920-9a54-4609-bbe9-47f8afe8627f" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -30,11 +28,29 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/curso/manipulando_arquivo/cookie/exemplo-02.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="68">
-              <caret line="4" column="4" selection-start-line="4" selection-start-column="4" selection-end-line="4" selection-end-column="4" />
+            <state relative-caret-position="136">
+              <caret line="8" column="1" lean-forward="true" selection-start-line="8" selection-start-column="1" selection-end-line="8" selection-end-column="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/curso/tryCatch/try.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="342">
+              <caret line="35" lean-forward="true" selection-start-line="35" selection-end-line="35" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/curso/tryCatch/error.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="221">
+              <caret line="13" column="1" lean-forward="true" selection-start-line="13" selection-start-column="1" selection-end-line="13" selection-end-column="1" />
             </state>
           </provider>
         </entry>
@@ -47,8 +63,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/curso/data_time/exemplo-02.php" />
-        <option value="$PROJECT_DIR$/curso/data_time/exemplo-03.php" />
         <option value="$PROJECT_DIR$/curso/data_time/exemplo-04.php" />
         <option value="$PROJECT_DIR$/curso/data_time/exemplo-05.php" />
         <option value="$PROJECT_DIR$/curso/POO/exemplo-01.php" />
@@ -98,6 +112,8 @@
         <option value="$PROJECT_DIR$/curso/cURL/exemplo-01.php" />
         <option value="$PROJECT_DIR$/curso/manipulando_arquivo/cookie/exemplo-01.php" />
         <option value="$PROJECT_DIR$/curso/manipulando_arquivo/cookie/exemplo-02.php" />
+        <option value="$PROJECT_DIR$/curso/tryCatch/try.php" />
+        <option value="$PROJECT_DIR$/curso/tryCatch/error.php" />
       </list>
     </option>
   </component>
@@ -135,14 +151,7 @@
               <item name="hcode_lfo" type="b2602c69:ProjectViewProjectNode" />
               <item name="hcode_lfo" type="462c0819:PsiDirectoryNode" />
               <item name="curso" type="462c0819:PsiDirectoryNode" />
-              <item name="manipulando_arquivo" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="hcode_lfo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="hcode_lfo" type="462c0819:PsiDirectoryNode" />
-              <item name="curso" type="462c0819:PsiDirectoryNode" />
-              <item name="manipulando_arquivo" type="462c0819:PsiDirectoryNode" />
-              <item name="cookie" type="462c0819:PsiDirectoryNode" />
+              <item name="tryCatch" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -191,12 +200,12 @@
       <updated>1553460357410</updated>
       <workItem from="1553460359062" duration="5795000" />
       <workItem from="1553521332996" duration="12195000" />
-      <workItem from="1553601964279" duration="14476000" />
+      <workItem from="1553601964279" duration="15700000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="32466000" />
+    <option name="totallyTimeSpent" value="33690000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
@@ -227,20 +236,6 @@
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/curso/data_time/exemplo-03.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" column="32" lean-forward="true" selection-start-line="6" selection-start-column="32" selection-end-line="6" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/curso/data_time/exemplo-04.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" lean-forward="true" selection-start-line="2" selection-end-line="5" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/curso/data_time/exemplo-05.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="136">
@@ -559,8 +554,22 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/curso/manipulando_arquivo/cookie/exemplo-02.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="4" selection-start-line="4" selection-start-column="4" selection-end-line="4" selection-end-column="4" />
+        <state relative-caret-position="136">
+          <caret line="8" column="1" lean-forward="true" selection-start-line="8" selection-start-column="1" selection-end-line="8" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/curso/tryCatch/try.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="342">
+          <caret line="35" lean-forward="true" selection-start-line="35" selection-end-line="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/curso/tryCatch/error.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="13" column="1" lean-forward="true" selection-start-line="13" selection-start-column="1" selection-end-line="13" selection-end-column="1" />
         </state>
       </provider>
     </entry>
