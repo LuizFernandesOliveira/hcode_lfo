@@ -10,6 +10,6 @@ class Sql
 {
 
     private $banco;
-    public $
+    public $j;
 
 }
