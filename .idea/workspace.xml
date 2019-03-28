@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="58e88920-9a54-4609-bbe9-47f8afe8627f" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="58e88920-9a54-4609-bbe9-47f8afe8627f" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -14,19 +11,46 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/curso/emailPHP/composer.json">
+        <entry file="file://$PROJECT_DIR$/curso/rainTPL/index.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="68">
-              <caret line="4" column="1" selection-start-line="4" selection-start-column="1" selection-end-line="4" selection-end-column="1" />
+            <state relative-caret-position="340">
+              <caret line="24" column="37" selection-start-line="24" selection-start-column="37" selection-end-line="24" selection-end-column="37" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/curso/rainTPL/tpl/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="34">
+              <caret line="2" column="27" selection-start-line="2" selection-start-column="27" selection-end-line="2" selection-end-column="27" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/curso/rainTPL/composer.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="85">
+              <caret line="5" column="1" selection-start-line="5" selection-start-column="1" selection-end-line="5" selection-end-column="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/curso/emailPHP/index.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="520">
+              <caret line="90" lean-forward="true" selection-start-line="4" selection-end-line="90" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/curso/emailPHP/index.php">
+        <entry file="file://$PROJECT_DIR$/curso/rainTPL/email.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="340">
-              <caret line="41" column="26" selection-start-line="41" selection-start-column="26" selection-end-line="41" selection-end-column="26" />
+            <state relative-caret-position="537">
+              <caret line="92" lean-forward="true" selection-start-line="92" selection-end-line="92" />
             </state>
           </provider>
         </entry>
@@ -55,10 +79,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/curso/POO/classe_abstrata/exemplo-01.php" />
-        <option value="$PROJECT_DIR$/curso/POO/polimorfismo/exemplo-01.php" />
-        <option value="$PROJECT_DIR$/curso/POO/autoload/exemplo-02.php" />
-        <option value="$PROJECT_DIR$/curso/POO/autoload/DelRey.php" />
         <option value="$PROJECT_DIR$/curso/POO/autoload/Automovel.php" />
         <option value="$PROJECT_DIR$/curso/POO/autoload/config.php" />
         <option value="$PROJECT_DIR$/curso/POO/autoload/exemplo-01.php" />
@@ -106,6 +126,10 @@
         <option value="$PROJECT_DIR$/curso/emailPHP/vendor/index.php" />
         <option value="$PROJECT_DIR$/curso/emailPHP/contents.html" />
         <option value="$PROJECT_DIR$/curso/emailPHP/index.php" />
+        <option value="$PROJECT_DIR$/curso/rainTPL/index.php" />
+        <option value="$PROJECT_DIR$/curso/rainTPL/tpl/index.html" />
+        <option value="$PROJECT_DIR$/curso/rainTPL/composer.json" />
+        <option value="$PROJECT_DIR$/curso/rainTPL/email.php" />
       </list>
     </option>
   </component>
@@ -142,6 +166,12 @@
               <item name="hcode_lfo" type="462c0819:PsiDirectoryNode" />
               <item name="curso" type="462c0819:PsiDirectoryNode" />
               <item name="emailPHP" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="hcode_lfo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="hcode_lfo" type="462c0819:PsiDirectoryNode" />
+              <item name="curso" type="462c0819:PsiDirectoryNode" />
+              <item name="rainTPL" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -196,18 +226,18 @@
       <workItem from="1553601964279" duration="15894000" />
       <workItem from="1553710974746" duration="853000" />
       <workItem from="1553726530196" duration="976000" />
-      <workItem from="1553779916391" duration="6006000" />
+      <workItem from="1553779916391" duration="6909000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="41719000" />
+    <option name="totallyTimeSpent" value="42622000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-10" y="0" width="662" height="735" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.23754153" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.3936877" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -232,28 +262,6 @@
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/curso/POO/autoload/Abstratas/Automovel.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/curso/POO/autoload/config.php" />
-    <entry file="file://$PROJECT_DIR$/curso/POO/namespace/exemplo-01.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="14" column="2" lean-forward="true" selection-start-line="14" selection-start-column="2" selection-end-line="14" selection-end-column="2" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/curso/POO/namespace/class/Cliente/Cadastro.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="7" column="18" lean-forward="true" selection-start-line="7" selection-start-column="18" selection-end-line="7" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/curso/POO/namespace/config.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="170">
@@ -552,13 +560,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/curso/emailPHP/composer.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="1" selection-start-line="4" selection-start-column="1" selection-end-line="4" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/curso/emailPHP/contents.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="102">
@@ -566,10 +567,45 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/curso/emailPHP/index.php">
+    <entry file="file://$PROJECT_DIR$/curso/rainTPL/index.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="340">
-          <caret line="41" column="26" selection-start-line="41" selection-start-column="26" selection-end-line="41" selection-end-column="26" />
+          <caret line="24" column="37" selection-start-line="24" selection-start-column="37" selection-end-line="24" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/curso/rainTPL/tpl/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="27" selection-start-line="2" selection-start-column="27" selection-end-line="2" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/curso/emailPHP/composer.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="4" lean-forward="true" selection-start-line="2" selection-start-column="4" selection-end-line="2" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/curso/rainTPL/composer.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="1" selection-start-line="5" selection-start-column="1" selection-end-line="5" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/curso/emailPHP/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="520">
+          <caret line="90" lean-forward="true" selection-start-line="4" selection-end-line="90" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/curso/rainTPL/email.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="537">
+          <caret line="92" lean-forward="true" selection-start-line="92" selection-end-line="92" />
         </state>
       </provider>
     </entry>
